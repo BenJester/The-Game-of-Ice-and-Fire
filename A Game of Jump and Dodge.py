@@ -1,5 +1,5 @@
 __author__ = 'BenYang'
-
+#some test comment to show __author__ how github works
 
 from Tkinter import *
 import random
